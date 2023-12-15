@@ -1,0 +1,9 @@
+---
+title: "Challenge8"
+format: html
+editor: visual
+---
+
+"What what the last movie you watched in a theater?"
+
+The last movie I watched in a theater was A Ballad of Songbirds and Snakes.
