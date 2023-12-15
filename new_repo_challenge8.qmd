@@ -7,3 +7,7 @@ editor: visual
 "What what the last movie you watched in a theater?"
 
 The last movie I watched in a theater was A Ballad of Songbirds and Snakes.
+
+"What did you eat for today's lunch?"
+
+I haven't eaten lunch yet today.
